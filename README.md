@@ -1,2 +1,2 @@
 # Machine-Learning
-Some codes about machine learning written by myselve 
+Some codes about machine learning written by myself
