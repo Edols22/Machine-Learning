@@ -26,7 +26,7 @@ def read_labels(filename):
     return labels
 
 
-n_labeled_samples_list = [10,20]
+n_labeled_samples_list = [50,100,200,500]
 n_components = 10
 PCA_vector = 50
 # 读取图像和标签数据
